@@ -38,3 +38,4 @@ function removeElementFromEndOfArray(arr) {
   var new_arr = arr.slice(0,arr.length-1)
   return new_arr
 }
+
